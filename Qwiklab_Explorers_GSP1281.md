@@ -12,11 +12,11 @@
 - ### Copy & Run the Commands in Cloud Shell Terminal :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Enabling-Sensitive-Data-Protection-Discovery-for-BigQuery-GSP1282/refs/heads/main/qwiklab_explorers_gsp1282.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Enabling-Sensitive-Data-Protection-Discovery-for-Cloud-Storage-GSP1281/refs/heads/main/qwiklab_explorers_gsp1281.sh
 
-sudo chmod +x qwiklab_explorers_gsp1282.sh
+sudo chmod +x qwiklab_explorers_gsp1281.sh
 
-./qwiklab_explorers_gsp1282.sh
+./qwiklab_explorers_gsp1281.sh
 ```
 
 ---
